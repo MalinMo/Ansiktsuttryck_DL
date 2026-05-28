@@ -6,7 +6,7 @@ Individuell inlämningsuppgift
 - Paket: Pandas, Numpy, Matplotlib, Scikit-learn, Tensorflow (se requirements.txt)
 
 ## Kom igång
-´´´
+```
 # klona projektet
 git clone https://github.com/MalinMo/Ansiktsuttryck_DL.git
  
@@ -15,4 +15,4 @@ python -m venv .venv
  
 # installera beroenden
 python -m pip install -r requirements.txt
-´´´
+```
